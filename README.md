@@ -1,22 +1,13 @@
-# YUHev2BeMed
-## The name soon to be known (in a good way)
-You may not know me right now, but you'll soon realize me!
-I work mainly on Python 🤔
-```
-# I have a code thingy thing
-import pyperclip
-# have the pyperclip software downloaded from inventwithpython.com
-print('this is my message')
-message = 'this is my message
-print("'this is my secret message' is now on the variable 'message'")
-# use with python
-```
-**I use Markdown on some stuf**
-> I know what a quote is
-sorry if that wasn't necessary
-...
+# Hi, I'm YUHev2BeMed
+I make code for fun, and stuff.
+I 👍 the stuff that @CPScript makes
+..
+## Are you still here?
+If you are, then visit my repository!
 
-## This is my Two Cans and String profile
-https://twocansandstring.com/users/hehenotsheshetest
-## This is where I keep my stuff
-
+>Well, what are you waiting for! go!
+# I guess I should give you somethin to do.
+Read my README.md!
+###### Could you help me get stats on my profile?
+## Here is my TCaS profile, if you know what that is.
+twocansandstring.com/users/hehenotsheshetest

@@ -10,4 +10,6 @@ If you are, then visit my repository!
 Read my README.md!
 ###### Could you help me get stats on my profile?
 ## Here is my TCaS profile, if you know what that is.
-twocansandstring.com/users/hehenotsheshetest
+https://twocansandstring.com/users/hehenotsheshetest
+# This is my GitHub stuff
+[![trophy](https://github-profile-trophy.vercel.app/?username=YUHev2BeMed)](https://github.com/ryo-ma/github-profile-trophy)

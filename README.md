@@ -1,9 +1,9 @@
 # Hi, I'm YUHev2BeMed
 I make code for fun, and stuff.
 I 👍 the stuff that @CPScript makes
-..
+...
 ## Are you still here?
-If you are, then visit my repository!
+Go to github.com/3kh0
 
 >Well, what are you waiting for! go!
 # I guess I should give you somethin to do.

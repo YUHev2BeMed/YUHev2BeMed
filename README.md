@@ -3,7 +3,7 @@ I make code for fun, and stuff.
 I 👍 the stuff that @CPScript makes
 ...
 ## Are you still here?
-Go to github.com/3kh0
+Go to https://github.com/3kh0
 
 >Well, what are you waiting for! go!
 # I guess I should give you somethin to do.

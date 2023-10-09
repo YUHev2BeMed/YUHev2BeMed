@@ -3,11 +3,11 @@ I make code for fun, and stuff.
 I 👍 the stuff that @CPScript makes
 ...
 ## Are you still here?
-Go to https://github.com/3kh0
+Go to [3kh0's profile! (not sponsered)](https://github.com/3kh0)
 
 >Well, what are you waiting for! go!
 # I guess I should give you somethin to do.
-Read my README.md!
+Read my README.md! (you gotta give it to me, mate)
 ## Here is my TCaS profile, if you know what that is.
 https://twocansandstring.com/users/hehenotsheshetest
 # This is my GitHub stuff
